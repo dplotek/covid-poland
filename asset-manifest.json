@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/covid-poland/static/css/main.0a9a9001.chunk.css",
+    "main.css": "/covid-poland/static/css/main.c0f30830.chunk.css",
     "main.js": "/covid-poland/static/js/main.5648b0e3.chunk.js",
     "main.js.map": "/covid-poland/static/js/main.5648b0e3.chunk.js.map",
     "runtime-main.js": "/covid-poland/static/js/runtime-main.80aae80e.js",
@@ -8,13 +8,13 @@
     "static/js/2.dadbd633.chunk.js": "/covid-poland/static/js/2.dadbd633.chunk.js",
     "static/js/2.dadbd633.chunk.js.map": "/covid-poland/static/js/2.dadbd633.chunk.js.map",
     "index.html": "/covid-poland/index.html",
-    "static/css/main.0a9a9001.chunk.css.map": "/covid-poland/static/css/main.0a9a9001.chunk.css.map",
+    "static/css/main.c0f30830.chunk.css.map": "/covid-poland/static/css/main.c0f30830.chunk.css.map",
     "static/js/2.dadbd633.chunk.js.LICENSE.txt": "/covid-poland/static/js/2.dadbd633.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.80aae80e.js",
     "static/js/2.dadbd633.chunk.js",
-    "static/css/main.0a9a9001.chunk.css",
+    "static/css/main.c0f30830.chunk.css",
     "static/js/main.5648b0e3.chunk.js"
   ]
 }

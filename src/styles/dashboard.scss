@@ -1,0 +1,73 @@
+.dashboard__wrapper {
+	display: flex;
+	flex-direction: column;
+	width: 100%;
+
+	header {
+		border-bottom: 3px solid #3c3f57;
+		padding: 20px 0;
+		margin: 0 50px;
+
+		@media screen and (max-width: 1550px) {
+			flex-direction: column;
+			margin-left: 150px;
+			margin-right: 400px;
+		}
+
+		@media screen and (max-width: 870px) {
+			margin: 100px 50px 0 50px;
+			text-align: center;
+		}
+	}
+}
+
+.dashboard__container {
+	display: flex;
+	justify-content: space-between;
+	width: calc(100% - 100px);
+	margin: 50px;
+
+	@media screen and (max-width: 1550px) {
+		width: calc(100% - 560px);
+		flex-direction: column;
+		margin-left: 150px;
+		margin-right: auto;
+	}
+
+	@media screen and (max-width: 870px) {
+		width: calc(100% - 100px);
+		margin: 0 50px;
+		justify-content: start;
+	}
+}
+
+.left__side {
+	width: 55%;
+	display: flex;
+	flex-direction: column;
+	color: white;
+	@media screen and (max-width: 1550px) {
+		width: 100%;
+		flex: 1;
+	}
+	@media screen and (max-width: 870px) {
+		max-width: 100%;
+		flex: 1;
+	}
+}
+
+.right__side {
+	color: white;
+	width: 40%;
+
+	@media screen and (max-width: 1550px) {
+		width: 100%;
+	}
+}
+
+.dasboard__cards {
+	display: flex;
+	width: 100%;
+	justify-content: space-between;
+	margin: 50px 0;
+}
